@@ -324,7 +324,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     <ul>
     <li><a href="https://www.github.com/chigo1">Github</a></li>
     <li><a href="https://www.twitter.com/baruch favour">Twitter</a></li>
-    <li><a href="mailto:bamideleadefolaju@gmail.com">g-mail</a></li>
+    <li><a href="baruchfavour01@gmail.com">g-mail</a></li>
     </ul>
 </details>
 ### OBJECTS IMPLEMENTED
