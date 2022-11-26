@@ -1,11 +1,11 @@
 # AirBnB clone - The console
 
-![Project Overview](console.jpg)
+![Project Overview](doc/console.jpg)
 
 ## Project Overview
-AirBnB Clone (the console) project is a stack of the AirBnB web application. This repo contains a console application that can be used to manage the various instances of class used in the AirBnB web application. Team project to build a clone of [AirBnB](https://www.airbnb.com/).at (Alx) Holberton School Software Engineering program. </br> 
+AirBnB Clone (the console) project is a stack of the AirBnB web application. This repo contains a console application that can be used to manage the various instances of class used in the AirBnB web application. It is a team project to build a clone of [AirBnB](https://www.airbnb.com/) at (Alx) Holberton School Software Engineering program. </br> 
 
-It represents the first step towards building a full web application.**AirBnB** is a *complete web application*, integrating database storage, a back-end API, and front-end interface. and front-end interface in a clone of AirBnB.
+It represents the first step towards building a full web application. **AirBnB** is a *complete web application*, integrating database storage, a back-end API, and front-end interface. and front-end interface in a clone of AirBnB.
 
 This is part 1 of our AirBnb Clone project. The purpose of this project is to make a command interpreter that manages our AirBnb objects.
 
@@ -13,17 +13,17 @@ This first step consists of:
 - a custom command-line interface for data management,
 - and the base classes for the storage of this data.
 
-![Project Overview](console-b.jpg)
+![Project Overview](doc/console-b.jpg)
 
 ## Project File Organization
 This project is organized as shown in the diagram below. In this hierarchal structure, all the models are stored in the models folder while the tests are stored in the tests folder
 
-![Project File Organization](console-c.jpg)
+![Project File Organization](doc/console-c.jpg)
 
 ## Supported Commands
 This console application supports a number of commands. This commands can be run in both interactive and non-interactive modes.
 
-![Supported Commands](console-d.jpg)
+![Supported Commands](doc/console-d.jpg)
 
 
 ## Usage 💻
@@ -53,7 +53,7 @@ The console will perform the following tasks:
 * Do operations on objects
 * Destroy an object
 
-![data_diagram](data.jpg)
+![data_diagram](doc/data.jpg)
 ## CONCEPTS LEARNT
 
 -    How to create a Python package
@@ -301,23 +301,6 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 (hbnb)
 
 ```
-## Authors
-<details>
-    <summary>Ololade Akinloye</summary>
-    <ul>
-    <li><a href="https://www.github.com/Computewell">Github</a></li>
-    <li><a href="https://www.twitter.com/Loladecodes">Twitter</a></li>
-    <li><a href="ololade220@gmail.com">g-mail</a></li>
-    </ul>
-</details>
-<details>
-    <summary>Baruch Favour</summary>
-    <ul>
-    <li><a href="https://www.github.com/chigo1">Github</a></li>
-    <li><a href="https://www.twitter.com/baruch favour">Twitter</a></li>
-    <li><a href="mailto:bamideleadefolaju@gmail.com">g-mail</a></li>
-    </ul>
-</details>
 ### OBJECTS IMPLEMENTED
 This repository contains the following files:
 
@@ -335,8 +318,7 @@ This repository contains the following files:
 | models/engine/ | file_storage.py | Serializes instances to a JSON file and deserializes JSON file to instances |
 
 
----
-
+-
 ## Authors
 <details>
     <summary>Ololade Akinloye</summary>
@@ -350,7 +332,7 @@ This repository contains the following files:
     <summary>Baruch Favour</summary>
     <ul>
     <li><a href="https://www.github.com/chigo1">Github</a></li>
-    <li><a href="https://www.twitter.com/baruch favour">Twitter</a></li>
-    <li><a href="mailto:bamideleadefolaju@gmail.com">g-mail</a></li>
+    <li><a href="https://www.twitter.com/favourbaruch">Twitter</a></li>
+    <li><a href="baruchfavour01@gmail.com">g-mail</a></li>
     </ul>
 </details>
