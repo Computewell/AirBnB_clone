@@ -301,7 +301,23 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 (hbnb)
 
 ```
-
+## Authors
+<details>
+    <summary>Ololade Akinloye</summary>
+    <ul>
+    <li><a href="https://www.github.com/Computewell">Github</a></li>
+    <li><a href="https://www.twitter.com/Loladecodes">Twitter</a></li>
+    <li><a href="ololade220@gmail.com">g-mail</a></li>
+    </ul>
+</details>
+<details>
+    <summary>Baruch Favour</summary>
+    <ul>
+    <li><a href="https://www.github.com/chigo1">Github</a></li>
+    <li><a href="https://www.twitter.com/baruch favour">Twitter</a></li>
+    <li><a href="mailto:bamideleadefolaju@gmail.com">g-mail</a></li>
+    </ul>
+</details>
 ### OBJECTS IMPLEMENTED
 This repository contains the following files:
 
