@@ -1,8 +1,10 @@
 # AirBnB clone - The console
 
-![AirBnB](assets/hbnb_logo.png)
+![Project Overview](console.jpg)
+
 ## Project Overview
-AirBnB Clone (the console) project is a part stack of the AirBnB web application. This repo contains a console application that can be used to manage the various instances of class used in the AirBnB web application. This is a team project at (Alx) Holberton School Software Engineering program. </br>
+AirBnB Clone (the console) project is a stack of the AirBnB web application. This repo contains a console application that can be used to manage the various instances of class used in the AirBnB web application. Team project to build a clone of [AirBnB](https://www.airbnb.com/).at (Alx) Holberton School Software Engineering program. </br> 
+
 It represents the first step towards building a full web application.**AirBnB** is a *complete web application*, integrating database storage, a back-end API, and front-end interface. and front-end interface in a clone of AirBnB.
 
 This is part 1 of our AirBnb Clone project. The purpose of this project is to make a command interpreter that manages our AirBnb objects.
@@ -11,23 +13,25 @@ This first step consists of:
 - a custom command-line interface for data management,
 - and the base classes for the storage of this data.
 
-![Project Overview](/docs/AirBnB_Console_Project_Overview.jpg)
+![Project Overview](console-b.jpg)
 
 ## Project File Organization
 This project is organized as shown in the diagram below. In this hierarchal structure, all the models are stored in the models folder while the tests are stored in the tests folder
 
-![Project File Organization](docs/AirBnB_Console_Project_Structure.jpg)
+![Project File Organization](console-c.jpg)
 
 ## Supported Commands
 This console application supports a number of commands. This commands can be run in both interactive and non-interactive modes.
 
-![Supported Commands](docs/AirBnB_Conosle_Supported_Commands.jpg)
+![Supported Commands](console-d.jpg)
 
 
 ## Usage 💻
 
 The console works both in interactive mode and non-interactive mode, much like a Unix shell.
 It prints a prompt **(hbnb)** and waits for the user for input.
+The console is a command interpreter to manage objects abstraction between objects and how they are stored.
+
 
 Command | Example
 ------- | -------
@@ -38,22 +42,9 @@ Create an object (prints its id)| ```(hbnb) create <class>```
 Show an object | ```(hbnb) show <class> <id>``` or ```(hbnb) <class>.show(<id>)```
 Destroy an object | ```(hbnb) destroy <class> <id>``` or ```(hbnb) <class>.destroy(<id>)```
 Show all objects, or all instances of a class | ```(hbnb) all``` or ```(hbnb) all <class>```
-Update an attribute of an object | ```(hbnb) update <class> <id> <attribute name> "<attribute value>"``` or ```(hbnb) <class>.update(<id>, <attribute name>, "<attribute value>")```
-
-## 0x00.Table of contents
-
-* [0x01 Introduction](#0x01-Introduction)
-* [0x02 Environment](#0x02-Environment)
-* [0x03 Installation](#0x03-Installation)
-* [0x04 Testing](#0x04-Testing)
-* [0x05 Usage](#0x05-Usage)
+Update an attribute of an object | ```(hbnb) update <class> <id> <attribute name> "<attribute value>"``` or ```(hbnb) <class>.update(<id>, <attribute name>, "<attribute value>")
 
 ## 0x01 Introduction
-
-Team project to build a clone of [AirBnB](https://www.airbnb.com/).
-
-The console is a command interpreter to manage objects abstraction between objects and how they are stored.
-![Project Overview](/docs/AirBnB_Console_Project_Overview.jpg)
 
 The console will perform the following tasks:
 
@@ -62,7 +53,7 @@ The console will perform the following tasks:
 * Do operations on objects
 * Destroy an object
 
-![data_diagram](assets/data_diagram.jpg)
+![data_diagram](data.jpg)
 ## CONCEPTS LEARNT
 
 -    How to create a Python package
@@ -310,23 +301,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 (hbnb)
 
 ```
-## Authors
-<details>
-    <summary>Ololade Akinloye</summary>
-    <ul>
-    <li><a href="https://www.github.com/Computewell">Github</a></li>
-    <li><a href="https://www.twitter.com/Loladecodes">Twitter</a></li>
-    <li><a href="ololade220@gmail.com">g-mail</a></li>
-    </ul>
-</details>
-<details>
-    <summary>Baruch Favour</summary>
-    <ul>
-    <li><a href="https://www.github.com/chigo1">Github</a></li>
-    <li><a href="https://www.twitter.com/baruch favour">Twitter</a></li>
-    <li><a href="mailto:bamideleadefolaju@gmail.com">g-mail</a></li>
-    </ul>
-</details>
+
 ### OBJECTS IMPLEMENTED
 This repository contains the following files:
 
@@ -346,3 +321,20 @@ This repository contains the following files:
 
 ---
 
+## Authors
+<details>
+    <summary>Ololade Akinloye</summary>
+    <ul>
+    <li><a href="https://www.github.com/Computewell">Github</a></li>
+    <li><a href="https://www.twitter.com/Loladecodes">Twitter</a></li>
+    <li><a href="ololade220@gmail.com">g-mail</a></li>
+    </ul>
+</details>
+<details>
+    <summary>Baruch Favour</summary>
+    <ul>
+    <li><a href="https://www.github.com/chigo1">Github</a></li>
+    <li><a href="https://www.twitter.com/baruch favour">Twitter</a></li>
+    <li><a href="mailto:bamideleadefolaju@gmail.com">g-mail</a></li>
+    </ul>
+</details>
