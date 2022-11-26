@@ -5,7 +5,7 @@
 ## Project Overview
 AirBnB Clone (the console) project is a stack of the AirBnB web application. This repo contains a console application that can be used to manage the various instances of class used in the AirBnB web application. It is a team project to build a clone of [AirBnB](https://www.airbnb.com/) at (Alx) Holberton School Software Engineering program. </br> 
 
-It represents the first step towards building a full web application. **AirBnB** is a *complete web application*, integrating database storage, a back-end API, and front-end interface. and front-end interface in a clone of AirBnB.
+It represents the first step towards building a full web application. **AirBnB** is a *complete web application*, integrating database storage, a back-end API, and front-end interface in a clone of AirBnB.
 
 This is part 1 of our AirBnb Clone project. The purpose of this project is to make a command interpreter that manages our AirBnb objects.
 
@@ -325,7 +325,6 @@ This repository contains the following files:
     <ul>
     <li><a href="https://www.github.com/Computewell">Github</a></li>
     <li><a href="https://www.twitter.com/Loladecodes">Twitter</a></li>
-    <li><a href="ololade220@gmail.com">g-mail</a></li>
     </ul>
 </details>
 <details>
@@ -333,6 +332,5 @@ This repository contains the following files:
     <ul>
     <li><a href="https://www.github.com/chigo1">Github</a></li>
     <li><a href="https://www.twitter.com/favourbaruch">Twitter</a></li>
-    <li><a href="baruchfavour01@gmail.com">g-mail</a></li>
     </ul>
 </details>
